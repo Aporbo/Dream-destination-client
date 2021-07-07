@@ -4,7 +4,7 @@
 
 It is a demo e-commerce travel related full-stack website. I have listed below some features of it. 
 
-- any one can book a travel place .
+- Any one can book a travel place .
 - different type of view for admin and user.
 - User and Admin can sign up and log in to this website using google.
 - User can see his/her all  booked destination. 
