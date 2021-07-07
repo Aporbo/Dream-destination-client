@@ -2,7 +2,7 @@
 
 [ Dream-Destination Live Site](https://dream-destination-f64f9.web.app/)
 
-It is a demo e-commerce travel related website. I have listed below some features of it. 
+It is a demo e-commerce travel related full-stack website. I have listed below some features of it. 
 
 - any one can book a travel place .
 - different type of view for admin and user.
